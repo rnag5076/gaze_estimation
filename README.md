@@ -13,4 +13,4 @@ Python program trying to estimate the position of pupil as well as perform blink
 
 #### OUTPUT VIDEO FRAME SAMPLE
 
-<img src="https://github.com/rnag5076/gaze_estimation/blob/main/sample.jpg" width="375" height="315">
+<img src="https://github.com/rnag5076/gaze_estimation/blob/main/sample.jpg" width="650" height="315">
